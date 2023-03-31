@@ -1,0 +1,22 @@
+[
+    {  
+        "name":"abc",
+        "username":"abc@xyz.com",
+        "password":"0000000"
+    },
+    {
+        "name":"cde",
+        "username":"cde@xyz.com",
+        "password":"12345678"
+    },
+    {
+        "name":"asd",
+        "username":"asd@xyz.com",
+        "password":"12345678"
+    },
+    {
+        "name":"usw",
+        "username":"usw@xyz.com",
+        "password":"5678988"
+    }
+]
